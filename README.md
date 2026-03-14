@@ -9,7 +9,7 @@
 本儲存庫展示以 AI 輔助進行 Java 程式開發的作業流程，內容包含專案建置、數學模型設計、程式實作與文件整理。
 
 專案儲存庫網址：
-- https://github.com/Eason0101-a/java-hw_1
+- https://github.com/Eason0101-a/java_Assignment-1-2026-3-3
 
 ## 關鍵字
 - Java
